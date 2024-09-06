@@ -30,7 +30,7 @@ Telegram, Mail
 mail: sayahaa1324@gmail.com telegram: https://t.me/arthdvdhh
 
 🛠 Языки и Технологии:
-Git HTML5 CSS3 JavaScript React Node.js Webpack
+[Git](https://git-scm.com/) HTML5 CSS3 JavaScript React Node.js Webpack
 
 🎨 Графические редакторы:
 Adobe Photoshop Figma
