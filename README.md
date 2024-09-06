@@ -19,7 +19,7 @@
 ⚡ Несколько фактов:
 
 Разработал:
-Сайт для школы плавания "NOVA" г. Уфа;
+Сайт для школы плавания "[NOVA](https://novaswim-ufa.ru/)" г. Уфа;
 Приложение toDoList используя LocalStorage;
 Тестовый сайт Hacker News, взаимодействие с API для обработки комментариев и статей/
 
@@ -30,17 +30,19 @@ Telegram, Mail
 mail: sayahaa1324@gmail.com telegram: https://t.me/arthdvdhh
 
 🛠 Языки и Технологии:
-[Git](https://git-scm.com/) HTML5 CSS3 JavaScript React Node.js Webpack
+![image](https://github.com/user-attachments/assets/d24cbfd4-fff9-47d2-b1d9-cd00da00d480)
+ ![image](https://github.com/user-attachments/assets/1e02905d-73ed-4e7d-ae7b-79ab05228a36)
+ ![image](https://github.com/user-attachments/assets/9c708a69-23b7-4893-9dbe-a1ea0cf5f5c3)
+ ![image](https://github.com/user-attachments/assets/97b3f57e-d658-4d89-abc8-254b4012eac3)
+ ![image](https://github.com/user-attachments/assets/46e10e3c-295f-40e0-98bb-fbb5907e7e07)
+ ![image](https://github.com/user-attachments/assets/a3c6f0f3-89e2-4aa4-aed8-038bc14b7b13)
+ ![image](https://github.com/user-attachments/assets/8b55a410-fc39-43e2-823a-420e9afe8ed2)
+
 
 🎨 Графические редакторы:
-Adobe Photoshop Figma
+![image](https://github.com/user-attachments/assets/0402598a-9a16-4e46-a344-6e957117a0bb)
+ ![image](https://github.com/user-attachments/assets/3bfe7e46-3101-41a2-8a96-1c1effef04e7)
+
 
 👨‍🎓 Образование:
 Диплом о профессиональной переподготовке по профессии «Веб-разработчик»
-
-🔥 Моя статистика:
- 
-
-Codewars
-
-visitors
